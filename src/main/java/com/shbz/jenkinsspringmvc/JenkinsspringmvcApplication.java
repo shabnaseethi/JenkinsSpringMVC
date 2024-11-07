@@ -9,6 +9,7 @@ public class JenkinsspringmvcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsspringmvcApplication.class, args);
 		System.out.println("Hello");
+		System.out.println("Jenkins Started");
 	}
 
 }
